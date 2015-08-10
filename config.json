@@ -1,0 +1,8 @@
+{
+	"server":"107.191.53.245",
+	"server_port":"1459",
+	"local_port":"1080",
+	"password":"huwenbo",
+	"timeout":600,
+	"methond":"aes-256-cfb"
+}
