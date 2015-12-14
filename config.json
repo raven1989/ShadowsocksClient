@@ -1,8 +1,8 @@
 {
 	"server":"139.162.16.15",
 	"server_port":3001,
-	"local_port":1089,
+	"local_port":1080,
 	"password":"password",
 	"timeout":600,
-	"methond":"rc4-md5"
+	"method":"rc4-md5"
 }
