@@ -1,1 +1,1 @@
-nohup sslocal -c ./config.json >> log &
+nohup sslocal -b 0.0.0.0 -c ./config.json >> log &
